@@ -1,0 +1,11 @@
+{
+ "name": " POLOTESMAN",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x09506008013b8746e19a8b3134883a0815db715a",
+ "type": "BEP20",
+ "symbol": "POLO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x09506008013b8746e19a8b3134883a0815db715a"
+}
